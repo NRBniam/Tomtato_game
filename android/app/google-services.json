@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "955137322529",
+    "project_id": "smilegame-2f9db",
+    "storage_bucket": "smilegame-2f9db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955137322529:android:5bf230259e12ff9d19fd60",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955137322529-rd20cf6ic35to7fq9jp0ftn8av772r0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "d0ba8348b8b5b7fa9be6e145f7114dd5e9a22b8b"
+          }
+        },
+        {
+          "client_id": "955137322529-bfmcmpupbpqd28h1hi1ccnjjhk2mgj58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDbWKfp4v0IK8WPQetJmIcUjzhjGXck2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955137322529-bfmcmpupbpqd28h1hi1ccnjjhk2mgj58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
